@@ -1,8 +1,5 @@
-# api-store
 
-Projeto API para servir o projeto store-carousel
-
-# REST API | JSON Server for
+# REST API | JSON Server
 
 <div style="text-align:center">
 
@@ -20,7 +17,7 @@ Esse projeto contem uma API MOCK onde podemos consultar dados, iniciando o servi
 <hr>
 </div>
 <h3>Como usar</h3>
-<p>1 - Abra o terminal / cmd.</p>
+<p>1 - Abra o terminal ou cmd.</p>
 <p>2 - Navegue ate a pasta onde quer baixar o projeto.</p>
 <p>3 - Faça o clone do projeto.</p>
 <p>4 - Execute no terminal: `cd api-rest-json`</p>
