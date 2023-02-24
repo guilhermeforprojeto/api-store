@@ -1,7 +1,5 @@
-{"scripts": {
-  "start": "json-server --watch db.json --port 3210"
-},
-  "dependencies": {
-    "json-server": "^0.17.0"
-  }
+{
+	"dependencies": {
+		"json-server": "^0.17.2"
+	}
 }
